@@ -25,8 +25,12 @@
  inna część 'print("Symbol")'
  
  
- 
- 
+![dog](pies.jpg "dog")!
+
+
+
+
+
  
 
 
